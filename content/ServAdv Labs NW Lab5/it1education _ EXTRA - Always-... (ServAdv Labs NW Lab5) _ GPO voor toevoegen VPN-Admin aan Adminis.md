@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO voor toev
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO voor toevoegen VPN-Admin aan Adminis/1635578817_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20voor%20toevoegen%20VPN-Admin%20aan%20Adminis/1635578817_practice.png)
 
 ## 
 
@@ -53,7 +53,7 @@ Computer\Policies\Preferences\Control Panel Settings
 
 Video tonen/verbergen
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO voor toevoegen VPN-Admin aan Adminis/1635252706_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20voor%20toevoegen%20VPN-Admin%20aan%20Adminis/1635252706_suru-qfor.png)
 
 ### Is alles gelukt?
 

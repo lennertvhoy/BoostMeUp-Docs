@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO om hyperb
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO om hyperboot uit te zetten/1635578817_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20om%20hyperboot%20uit%20te%20zetten/1635578817_practice.png)
 
 ## 
 
@@ -44,7 +44,7 @@ HKEY_LOCAL_MACHINE\System\CrrentControlSet\Control\SessionManager
 
 Video tonen/verbergen
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO om hyperboot uit te zetten/1635252706_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20om%20hyperboot%20uit%20te%20zetten/1635252706_suru-qfor.png)
 
 ### Is alles gelukt?
 

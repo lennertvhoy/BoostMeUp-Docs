@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ VPN profile f
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ VPN profile for device tunnel/1634976994_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20VPN%20profile%20for%20device%20tunnel/1634976994_practice.png)
 
 ## 
 
@@ -132,7 +132,7 @@ cd ..\..\Users\VPN_Admin\Desktop
 
 Video tonen/verbergen
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ VPN profile for device tunnel/1634912178_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20VPN%20profile%20for%20device%20tunnel/1634912178_suru-qfor.png)
 
 ### Is alles gelukt?
 

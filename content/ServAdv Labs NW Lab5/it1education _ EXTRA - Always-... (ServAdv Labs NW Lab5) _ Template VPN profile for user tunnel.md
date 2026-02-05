@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Template VPN 
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Template VPN profile for user tunnel/1634976994_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20Template%20VPN%20profile%20for%20user%20tunnel/1634976994_practice.png)
 
 ## 
 
@@ -60,7 +60,7 @@ last_updated: "2026-02-05"
 
 Video tonen/verbergen
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Template VPN profile for user tunnel/1634912178_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20Template%20VPN%20profile%20for%20user%20tunnel/1634912178_suru-qfor.png)
 
 ### Is alles gelukt?
 

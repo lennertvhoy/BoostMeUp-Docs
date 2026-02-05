@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO voor uitr
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO voor uitrollen Always On VPN Profile/1635578817_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20voor%20uitrollen%20Always%20On%20VPN%20Profile/1635578817_practice.png)
 
 ## 
 
@@ -97,7 +97,7 @@ User\Policies\Windows Settings\Scripts
 
 Video tonen/verbergen
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO voor uitrollen Always On VPN Profile/1635252706_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20voor%20uitrollen%20Always%20On%20VPN%20Profile/1635252706_suru-qfor.png)
 
 ### Is alles gelukt?
 

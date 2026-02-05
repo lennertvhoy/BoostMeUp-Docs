@@ -9,7 +9,7 @@ EXTRA - Always-On VPN (ServAdv Labs NW Lab5)
 
 [Home](https://it1education.talentlms.com/dashboard "Home") / EXTRA - Always-On VPN (ServAdv Labs NW Lab5)
 
-![EXTRA - Always-On VPN (ServAdv Labs NW Lab5)](../../media/ServAdv Labs NW Lab5/EXTRA - Always-On VPN (ServAdv Labs NW Lab5)/1695817916_learn_practice_improve.png "EXTRA - Always-On VPN (ServAdv Labs NW Lab5)")  
+![EXTRA - Always-On VPN (ServAdv Labs NW Lab5)](../../media/ServAdv%20Labs%20NW%20Lab5/EXTRA%20-%20Always-On%20VPN%20%28ServAdv%20Labs%20NW%20Lab5%29/1695817916_learn_practice_improve.png "EXTRA - Always-On VPN (ServAdv Labs NW Lab5)")  
   
 [Ga verder met cursus](https://it1education.talentlms.com/learner/course/id:827)
 
@@ -62,7 +62,7 @@ Voltooiingsregels
 
 ### Dit is een beveiligde site
 
-[![SSL Certificate Authority](../../media/ServAdv Labs NW Lab5/EXTRA - Always-On VPN (ServAdv Labs NW Lab5)/secured-site-header.png "SSL Certificate Authority")](http://www.positivessl.com/ "SSL Certificate Authority")
+[![SSL Certificate Authority](../../media/ServAdv%20Labs%20NW%20Lab5/EXTRA%20-%20Always-On%20VPN%20%28ServAdv%20Labs%20NW%20Lab5%29/secured-site-header.png "SSL Certificate Authority")](http://www.positivessl.com/ "SSL Certificate Authority")
 
 Een beveiligde site is een website die wordt beschermd tegen
 nieuwsgierige blikken. Wanneer informatie heen en weer gaat tussen onze
@@ -107,7 +107,7 @@ Annuleer
 
 ### Even voor de zekerheid, u bent nu uitgelogd
 
-![](../../media/ServAdv Labs NW Lab5/EXTRA - Always-On VPN (ServAdv Labs NW Lab5)/lockout.svg)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/EXTRA%20-%20Always-On%20VPN%20%28ServAdv%20Labs%20NW%20Lab5%29/lockout.svg)
 
 Voer uw wachtwoord in om verder te gaan waar u was gebleven
 
@@ -126,7 +126,7 @@ Voer uw wachtwoord in om verder te gaan waar u was gebleven
 * [Certificaten](#)
 * [Beloningen](#)
 
-![](../../media/ServAdv Labs NW Lab5/EXTRA - Always-On VPN (ServAdv Labs NW Lab5)/loading-small.gif)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/EXTRA%20-%20Always-On%20VPN%20%28ServAdv%20Labs%20NW%20Lab5%29/loading-small.gif)
 
 [Hoe verzamel je punten](javascript:void(0))
 

@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO om gebrui
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO om gebruikers 'FullControl' te geven/1635578817_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20om%20gebruikers%20%27FullControl%27%20te%20geven/1635578817_practice.png)
 
 ## 
 
@@ -69,7 +69,7 @@ Computer\Policies\Windows Settings\Scripts
 
 Video tonen/verbergen
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ GPO om gebruikers 'FullControl' te geven/1635252706_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20GPO%20om%20gebruikers%20%27FullControl%27%20te%20geven/1635252706_suru-qfor.png)
 
 ### Is alles gelukt?
 

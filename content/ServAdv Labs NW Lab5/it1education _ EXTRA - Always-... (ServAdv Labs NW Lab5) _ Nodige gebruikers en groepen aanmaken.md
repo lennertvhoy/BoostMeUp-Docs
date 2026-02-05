@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Nodige gebrui
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Nodige gebruikers en groepen aanmaken/1634976994_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20Nodige%20gebruikers%20en%20groepen%20aanmaken/1634976994_practice.png)
 
 ## 
 
@@ -30,7 +30,7 @@ last_updated: "2026-02-05"
 + VPN Servers (voeg SRV-RAS-01 toe)
 + NPS Servers (voeg SRV-NPS-01 toe)
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Nodige gebruikers en groepen aanmaken/1634912178_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20Nodige%20gebruikers%20en%20groepen%20aanmaken/1634912178_suru-qfor.png)
 
 ### Is alles gelukt?
 

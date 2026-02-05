@@ -3,7 +3,7 @@ title: "it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Installatie A
 last_updated: "2026-02-05"
 ---
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Installatie AD Certificate Services/1634976994_practice.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20Installatie%20AD%20Certificate%20Services/1634976994_practice.png)
 
 ## 
 
@@ -31,7 +31,7 @@ last_updated: "2026-02-05"
 * Bij het venster 'Confirmation' klik je op "Install"
 * Bij het venster 'Results' klik je op "Close" om de wizard af te sluiten
 
-![](../../media/ServAdv Labs NW Lab5/it1education _ EXTRA - Always-... (ServAdv Labs NW Lab5) _ Installatie AD Certificate Services/1634912178_suru-qfor.png)
+![](../../media/ServAdv%20Labs%20NW%20Lab5/it1education%20_%20EXTRA%20-%20Always-...%20%28ServAdv%20Labs%20NW%20Lab5%29%20_%20Installatie%20AD%20Certificate%20Services/1634912178_suru-qfor.png)
 
 ### Is alles gelukt?
 
